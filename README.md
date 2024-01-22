@@ -40,3 +40,5 @@
       ```
   * OPENAI_API_KEY
     * https://platform.openai.com/docs/overview
+### 의견
+* 심플하게 테스트할 수 있지만 OpenAPI 무료 key의 사용량 제한이 있어 먼갈 해보긴 어렵네 ㅎ
